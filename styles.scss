@@ -1,0 +1,15 @@
+$primary-color: #3498db;
+$secondary-color: #2ecc71;
+$text-color: #333;
+
+body {
+  color: $text-color;
+  background-color: $primary-color;
+}
+
+a {
+  color: $secondary-color;
+}
+format:
+  html:
+    css: styles.scss
