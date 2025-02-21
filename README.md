@@ -17,4 +17,3 @@ Hello! I'm Libby Prince, an Ecosystem Science and Sustainability major passionat
     <a href="https://github.com/YOUR-USERNAME">GitHub</a> | <a href="mailto:YOUR-EMAIL">Email</a>
   </div>
 </footer>
-
